@@ -1,5 +1,5 @@
 # fontShrink
-jQuery plugin for text size adjustment
+jQuery plugin for text size adjustment.  
 文字サイズ調整のためのjQueryプラグインです。
 
 # What is this?
